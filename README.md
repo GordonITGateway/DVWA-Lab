@@ -6,6 +6,7 @@ Deepening my understanding of web vulnerabilities and common attack vectors by s
 ### Testing and observing a variety of simplified attacks such as:
 - SQL Injections
 - File Inclusion
+- Cross Site Scripting (XSS)
 ## Tools Used:
 - Kali Linux
 - DVWA (Damn Vulnerable Web Application)
